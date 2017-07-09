@@ -1,1 +1,2 @@
-# KoC-Asteroid-Demo
+# KoC-Demos
+David Smith
